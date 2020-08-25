@@ -1,0 +1,1 @@
+return external_call(global.define_http_get_conn_status,argument0);

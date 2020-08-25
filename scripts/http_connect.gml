@@ -1,0 +1,1 @@
+return external_call(global.define_http_connect,argument0,argument1,argument2);

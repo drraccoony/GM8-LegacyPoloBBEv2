@@ -1,0 +1,1 @@
+return external_call(global.define_http_url_get_hostname,argument0);

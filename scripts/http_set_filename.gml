@@ -1,0 +1,1 @@
+return external_call(global.define_http_set_filename,argument0,argument1);

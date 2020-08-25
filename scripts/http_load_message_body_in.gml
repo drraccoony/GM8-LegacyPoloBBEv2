@@ -1,0 +1,1 @@
+return external_call(global.define_http_load_message_body_in,argument0,argument1);

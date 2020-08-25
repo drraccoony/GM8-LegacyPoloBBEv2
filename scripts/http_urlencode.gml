@@ -1,0 +1,1 @@
+return external_call(global.define_http_urlencode,argument0,argument1);
